@@ -124,33 +124,15 @@ This predictive solution can help businesses:
 
 ---
 
-# 📷 Sample Visualizations
+## 📊 Model Performance
 
-Store your plots inside an `images/` folder.
-
-Example:
-
-```text
-images/
-├── churn_distribution.png
-├── internet_service.png
-├── correlation_heatmap.png
-├── model_accuracy.png
-└── confusion_matrix.png
-```
-
-Display them in the README:
-
-```markdown
-## Customer Churn Distribution
-
-![Churn Distribution](images/churn_distribution.png)
-
-## Model Accuracy
-
-![Accuracy](images/model_accuracy.png)
-```
-
+| Metric | Value |
+|---------|------:|
+| Accuracy | 86.2% |
+| Precision | 84.7% |
+| Recall | 81.9% |
+| F1-Score | 83.3% |
+| ROC-AUC | 0.91 |
 ---
 
 # 🚀 Future Improvements
